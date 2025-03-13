@@ -1,0 +1,12 @@
+.custom-footer{
+    background-color: rgb(2, 50, 56) !important;
+    font-size: 30px;
+    font-weight: bold  ;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+.custom-span{
+    color: white !important;
+    margin-left: 60px !important;
+}
